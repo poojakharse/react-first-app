@@ -1,0 +1,13 @@
+.container{
+    padding:20px; 
+    top:0px;
+    color:yellow;
+}
+.image {
+    position: absolute;
+    padding-top: 10px;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 400px; 
+  }
